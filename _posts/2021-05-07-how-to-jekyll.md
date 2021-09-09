@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subheading: A awesome static site generator.
+title: how to Jekyll!
+subheading: A test for static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
